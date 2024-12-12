@@ -1,3 +1,4 @@
+# 필수 변수 정의
 variable "private_subnet_id" {
   description = "프라이빗 서브넷 ID"
   type        = string
